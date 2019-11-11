@@ -1,3 +1,4 @@
+// gcc exp.c -o exp -static -lpthread -masm=intel -Wl,--section-start=.note.gnu.build-id=0x50000000
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
