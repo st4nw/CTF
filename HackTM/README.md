@@ -1,4 +1,4 @@
-# HackTM CTF Quals 2020
+# HackTM CTF Quals 2020 - Pwnable
 ## Team : ROK YoungBloods
 ## Rank : 7th
 
